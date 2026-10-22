@@ -378,5 +378,9 @@ Latest revision includes:
 
 \---
 
+🎨 Branding
+Part of the CLAUDEWAD / ROBRip suite — neon‑loud, forensic, unapologetically diagnostic.
 
+📄 License
+ROBRip OpenSource
 
