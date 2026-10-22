@@ -1,4 +1,4 @@
-\# \*\*ROBRip System Diagnostics v7\*\*  
+\# \*\*\ROBRip_System_Diagnostics_v7.ps1\*\*  
 
 \### \*\*Neon‑Violet Hardware Telemetry \& System Health Scanner\*\*
 
@@ -264,7 +264,7 @@ A WMI-based thermal zone reader is included but commented out due to inconsisten
 
 1\. Save the script as:  
 
-&#x20;  `ROBRip\_System\_Info\_Disks\_Ram\_CPU\_GPU\_Info\_v7.ps1`
+&#x20;  `ROBRip_System_Diagnostics_v7.ps1`
 
 
 
@@ -278,7 +278,7 @@ A WMI-based thermal zone reader is included but commented out due to inconsisten
 
 ```powershell
 
-.\\ROBRip\_System\_Info\_Disks\_Ram\_CPU\_GPU\_Info\_v7.ps1
+.\ROBRip_System_Diagnostics_v7.ps1
 
 ```
 
